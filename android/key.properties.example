@@ -1,0 +1,4 @@
+storePassword=isi_password_keystore
+keyPassword=isi_password_key
+keyAlias=upload
+storeFile=keystore/upload-keystore.jks

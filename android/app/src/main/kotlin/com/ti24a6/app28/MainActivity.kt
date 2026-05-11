@@ -1,4 +1,4 @@
-package com.example.proyek_pertama
+package com.ti24a6.app28
 
 import io.flutter.embedding.android.FlutterActivity
 
